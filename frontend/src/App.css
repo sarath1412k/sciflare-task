@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.option-select-btn{
+  border: none;
+  background-color: transparent;
+  text-decoration: underline;
+  margin: 10px 0;
+}
+.header-title{
+  background-color: brown;
+  height:4rem;
+  text-align: center;
+  align-items: center;
+  color: white;
+  font-size: 20px;
+  font-weight: bold 
+}
